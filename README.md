@@ -1,2 +1,3 @@
 # Goosak_Game
-Game like Flappy Bird
+Use arrow keys - down/up/left/right  to move your bird.
+
